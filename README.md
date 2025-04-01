@@ -1,13 +1,13 @@
-# Slides: Starter boilerplate
+# Slides: XAMP
 
-Short or long description.
+ Presentation made for a XAMP workshop.
 
 ## Environment
 
-- LOCAL: http://web.slidesstarter.lndo.site/
+- LOCAL: http://web.xamp.lndo.site/
 - DEV: ~
 - PRE: ~
-- PRO: ~
+- PRO: https://jjpeleato.com/courses/xamp/
 
 ## Project
 
